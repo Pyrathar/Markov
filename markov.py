@@ -51,7 +51,7 @@ def openexcel(filename):
 
 print "Feed me a csv file (example: ninjas.csv)"
 x = raw_input("File:")
-openexcel?
+openexcel(x)
 
 
 
